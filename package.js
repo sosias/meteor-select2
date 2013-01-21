@@ -11,4 +11,6 @@ Package.on_use(function (api) {
         "select2/select2x2.png",
         "select2/spinner.gif",
     ], "client");
+
+    api.add_files('path-override.css', 'client');
 });
