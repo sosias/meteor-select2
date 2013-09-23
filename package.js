@@ -6,14 +6,14 @@ Package.on_use(function (api) {
     api.use("jquery", "client");
 
     api.add_files([
-        "select2/lib/select2.js"
+        "lib/select2/select2.js"
     ], "client", {bare: true});
 
     api.add_files([
-        "select2/lib/select2.css",
-        "select2/lib/select2.png",
-        "select2/lib/select2x2.png",
-        "select2/lib/select2-spinner.gif",
+        "lib/select2/select2.css",
+        "lib/select2/select2.png",
+        "lib/select2/select2x2.png",
+        "lib/select2/select2-spinner.gif",
         "path-override.css"
     ], "client");
 });
