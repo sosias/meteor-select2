@@ -2,7 +2,7 @@ meteor-select2
 ===================
 
 Meteorite smart package for Select2
-[Select2 3.4.0](http://ivaynberg.github.io/select2/)
+[Select2 3.4.3](http://ivaynberg.github.io/select2/)
 
 ## How to install
 1. `npm install -g meteorite` (if not already installed)
