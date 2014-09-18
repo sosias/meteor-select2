@@ -1,9 +1,11 @@
-meteor-select2
+Select2
 ===================
 
-Meteorite smart package for Select2
-[Select2 3.4.5](http://ivaynberg.github.io/select2/)
 
-## How to install
-1. `npm install -g meteorite` (if not already installed)
-2. `mrt add select2`
+## Note: Diacratic Support Removed
+Due an issue with spiderable, this feature has been disabled.  See https://github.com/gadicc/meteor-phantomjs/issues/1
+
+
+
+Smart package for Select2
+[Select2 3.4.5](http://ivaynberg.github.io/select2/)
