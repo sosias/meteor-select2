@@ -3,7 +3,7 @@ Select2
 
 
 Smart package for Select2
-[Select2 3.4.5](http://ivaynberg.github.io/select2/)
+[Select2](http://ivaynberg.github.io/select2/)
 
 
 ## Note: Diacratic Support Removed
