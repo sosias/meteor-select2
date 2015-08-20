@@ -2,12 +2,14 @@ Select2
 ===================
 
 
-Smart package for Select2
-[Select2](http://ivaynberg.github.io/select2/)
+Package for [Select2](http://ivaynberg.github.io/select2/)
 
 
-## Note: Diacratic Support Removed
-Due an issue with spiderable, this feature has been disabled.  See https://github.com/gadicc/meteor-phantomjs/issues/1
 
+## How to install
 
+Add package
+```
+meteor add nate-strauser:select2
+```
 
