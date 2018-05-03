@@ -1,8 +1,8 @@
 Package.describe({
-  name: "natestrauser:select2",
-  summary: "Select2 is a jQuery based replacement for select boxes.",
-  version: "4.0.3",
-  git: "https://github.com/nate-strauser/meteor-select2.git"
+  name: "local:select2",
+  summary: "Fork of natestrauser-Select2. Select2 is a jQuery based replacement for select boxes",
+  version: "4.0.6-rc.1",
+  git: "https://github.com/sosias/meteor-select2.git"
 });
 
 Package.on_use(function(api) {
